@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, nice to meet you :nerd_face:
+---
 
-<!--
-**Jhonmt-cpu/Jhonmt-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is João Mateus Alves Borges de Melo, but you can call me **John**
 
-Here are some ideas to get you started:
+I'm a Node.js and React Junior developer that loves technology. I think it's a way that we programmers can change the world to a better place by solving problems using code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on personal projects focusing in learning docker and docker compose.
+
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mateus-36056b191/?locale=en_US) so we can have a good conversation.
+
+So, let's get going and **never stop learning!**
+
+
+
