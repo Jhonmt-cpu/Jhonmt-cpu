@@ -5,7 +5,7 @@ My name is João Mateus Alves Borges de Melo, but you can call me **John**
 
 I'm a Node.js and React Junior developer that loves technology. I think it's a way that we programmers can change the world to a better place by solving problems using code.
 
-I'm currently working on personal projects focusing in learning docker and docker compose.
+I'm currently working as an intern at [Arpia Tecnologia](https://arpiatecnologia.com.br) and now Iahve a particular interest in Flutter 
 
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mateus-36056b191/?locale=en_US) so we can have a good conversation.
 
