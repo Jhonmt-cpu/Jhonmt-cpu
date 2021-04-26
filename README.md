@@ -11,9 +11,12 @@ Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mateus
 
 So, let's get going and **never stop learning!**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmt-cpu&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonmt-cpu&show_icons=true&theme=radical)
+<h3>⚡ Minhas estatísticas no GitHub</h3>
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonmt-cpu&show_icons=true&hide_border=true" />
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonmt-cpu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 
 
