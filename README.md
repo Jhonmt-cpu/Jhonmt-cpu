@@ -11,7 +11,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍💻 I'm an intern at [Arpia Tecnologia](https://arpiatecnologia.com.br);
+- 👩🏻‍💻 I'm a Dev.jr at [Arpia Tecnologia](https://arpiatecnologia.com.br);
 
 - 🌱 I’m currently learning flutter;
 
